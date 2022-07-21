@@ -1,3 +1,3 @@
 # argprog-frontend
 
-Ejemplo
+Ejemplo.
